@@ -35,9 +35,9 @@
 .bar .button.button-large:disabled,
 .bar .button.button-large:disabled,
 .bar .button.button-floating:disabled {
-    background-color: #DFDFDF;
+    // background-color: #DFDFDF;
     box-shadow: none;
-    color: #9F9F9F;
+    // color: #9F9F9F;
 }
 
 .button.disabled:hover,
@@ -56,8 +56,8 @@
 .bar .button.button-large:disabled:hover,
 .bar .button.button-large:disabled:hover,
 .bar .button.button-floating:disabled:hover {
-    background-color: #DFDFDF;
-    color: #9F9F9F;
+    // background-color: #DFDFDF;
+    // color: #9F9F9F;
 }
 
 .button i,
